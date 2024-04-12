@@ -8,3 +8,5 @@ def rot_center(image, angle):
     rot_image = rot_image.subsurface(rot_rect).copy()
     return rot_image
 
+# fhrh
+# fefffffffffffffffffffffff
